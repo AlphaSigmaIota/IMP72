@@ -1,5 +1,5 @@
 # IMP72 - Umsetzung eines Business Use Cases mit FinGPT
-
+![FinGPTForcaster.png](FinGPTForcaster.png)
 ### Konfiguration
 In der config.ini müssen zwei Werte hinterlegt werden: 
 - FINNHUB_KEY: Dieser erfordert eine Registrierung bein FinnHub
